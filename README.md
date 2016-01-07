@@ -1,0 +1,2 @@
+# scala-progs
+Learn Scala!
